@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        //Циклы. Часть 1. Задание 1
-        System.out.println("Циклы. Часть 1. Задание 1");
-        for (int i = 0; i < 10; i++) {
+        //Циклы. Часть 1. Задание 2
+        System.out.println("Циклы. Часть 1. Задание 2");
+        for (int i = 10; i > 0; i--) {
             System.out.println(i);
         }
     }
